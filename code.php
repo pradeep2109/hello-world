@@ -4465,6 +4465,4 @@ public function register_store()
 
 	}
 
-
-
 }
